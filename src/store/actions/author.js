@@ -23,6 +23,6 @@ export const fetchAuthorDetail = authorID => {
 };
 
 //POST THE BOOK TO https://the-index-api.herokuapp.com/api/books/
-export const postBook = (book, author, closeModal) => {
-  alert("I DON'T DO ANYTHING YET!");
-};
+// export const postBook = (book, author, closeModal) => {
+//   alert("I DON'T DO ANYTHING YET!");
+// };
